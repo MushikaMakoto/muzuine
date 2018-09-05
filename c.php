@@ -8,5 +8,9 @@
 		 echo $kaeritai;
  }
 
+ function kaeritai(){
+   aaaaaaaaaaaaaaaa;
+ }
+
 
 ?>
